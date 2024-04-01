@@ -1,0 +1,34 @@
+.navbar-order {
+    display: flex !important;
+    margin-left: 15px !important;
+}
+
+.navbar-links {
+    display: flex !important;
+    margin-top: 10px !important;
+}
+
+.home-page {
+    color: black !important;
+    text-decoration: none !important;
+    color: white !important;
+
+}
+
+.nav-link {
+    margin-right: 10px  !important;
+    margin-left: 10px  !important;
+    color: rgb(216, 216, 216) !important;
+}
+
+.navbar-size {
+    /* float: right !important; */
+    justify-content: space-between !important;
+    background-color: rgb(34, 34, 34) !important;
+}
+
+.signin-link {
+    float: right !important;
+    margin-right: 20px !important;
+ 
+}
